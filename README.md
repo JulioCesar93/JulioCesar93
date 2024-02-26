@@ -1,22 +1,29 @@
-## Júlio Cesar por aqui 🤘🏼
+### Olá Visitante, seja Bem Vindo ao meu perfil Github! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesar1993/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioCesar93)
+☕ Desenvolvedor Full-Stack Java ☕
 
-![JulioCesar GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesar93&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
 
-## Tecnologias na utilização do processo de aprendizagem:
+  <a href="https://github.com/JulioCesar93">
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesar93&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar93&layout=compact&langs_count=7&theme=vision-friendly-dark">
+   </div>
+    
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</div>
+  
+  ##
+ 
+<div> 
 
-<div style="display: inline_block">
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  
-  
-  
-  
-##
-  
+ <a href="https://www.linkedin.com/in/juliocesar1993/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:cjjulio7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://dev.to/juliocesar93" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
+
+  </div>
 
